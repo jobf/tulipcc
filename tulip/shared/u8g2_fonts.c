@@ -66,7 +66,7 @@ const uint8_t*tulip_fonts[MAX_TULIP_FONTS] = {
     u8g2_font_luRS18_tr,
     u8g2_font_osb18_tr,
     u8g2_font_logisoso24_tr,
-    u8g2_font_lubB24_tr
+    u8g2_font_spleen16x32_mu
 };
 
 //========================================================
